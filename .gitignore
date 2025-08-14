@@ -2,6 +2,8 @@
 .env
 .vscode/
 *.log
+yd_images.txt
+
 
 # Terraform
 **/.terraform/*
@@ -21,5 +23,5 @@ terraform.rc
 # OS noise
 .DS_Store
 Thumbs.db
-
 EOF
+
