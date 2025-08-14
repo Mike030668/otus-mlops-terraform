@@ -1,0 +1,8 @@
+zone           = ""
+folder_id      = ""
+cloud_id       = ""
+token          = ""
+image_id       = ""
+disk_name      = ""
+ssh_public_key = ""
+bucket_name    = ""
